@@ -1,4 +1,4 @@
-# FinTech Transaction Data Engineering & Analytics Platform
+# FinTech Data Engineering — Automated Transaction Processing & Analytics Platform
 
 An end-to-end FinTech data engineering and analytics platform for processing, standardizing, categorizing, and analyzing financial transactions. The system combines batch ETL, incremental processing, streaming ingestion, machine learning-based transaction categorization, PostgreSQL storage, Apache Airflow orchestration, AWS S3, Apache Kafka, and Power BI.
 
