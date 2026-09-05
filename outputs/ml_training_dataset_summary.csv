@@ -1,0 +1,21 @@
+metric,value
+source_transactions,146375
+approved_mapping_records,2486
+rule_mapping_records,20719
+ml_generated_records_excluded,1006
+strong_shopping_labels,584
+conflicting_descriptions_removed,4
+final_training_records,6473
+max_records_per_category,2000
+label_2001_Food & Groceries,2000
+label_2002_Fuel,532
+label_2003_Transport,492
+label_2004_Utilities & Bills,411
+label_2005_Healthcare,925
+label_2006_Shopping & Retail,696
+label_2007_Transfers & Withdrawals,751
+label_2008_Income,645
+label_2009_Other,21
+source_approved_mapping,110
+source_deterministic_rule,6202
+source_human_validated_shopping,161

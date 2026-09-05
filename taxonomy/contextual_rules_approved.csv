@@ -1,0 +1,6 @@
+normalized_description,vch_type,canonical_category_id,rule_name,approved
+cash,Transfer,2007,cash transfer,True
+atm,Transfer,2007,atm transfer,True
+transfer,Transfer,2007,transfer transfer,True
+cng,Expense,2002,cng expense,True
+online deposit,Income,2008,online deposit income,True

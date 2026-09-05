@@ -1,0 +1,140 @@
+description,vch_type,canonical_family,canonical_id,approval_decision,human_notes,mapping_source
+cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash withdrawal,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+transfer for account deletion,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm withdrawal,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+withdrawal,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+withdrawl,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash withdrawl,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+raj grocery,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+food,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+gj cash from haris,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+dinner at office,Expense,Dining,2001,APPROVED,,HUMAN_APPROVED
+prem vegetables,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+cash withdraw,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+interest earned,Income,Income,2008,APPROVED,,HUMAN_APPROVED
+atm draw,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm withdrawl,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash atm,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm withdraw,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+lunch,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+petrol for scooty,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+petrol,Transfer,Fuel,2002,APPROVED,,HUMAN_APPROVED
+milk,Transfer,Groceries,2009,APPROVED,,HUMAN_APPROVED
+petty cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+office bike parking,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+bread,Transfer,Groceries,2009,APPROVED,,HUMAN_APPROVED
+buy milk,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+uber home ho,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+diesel,Transfer,Fuel,2002,APPROVED,,HUMAN_APPROVED
+atm cash withdrawal,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+internal transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+bike fuel monthly,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+cash transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+electricity bill,Transfer,Utilities,2004,APPROVED,,HUMAN_APPROVED
+dinner,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+transfer to cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+careem home office,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+water bill,Transfer,Utilities,2004,APPROVED,,HUMAN_APPROVED
+lunch at ofc,Expense,Dining,2001,APPROVED,,HUMAN_APPROVED
+lauka,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+milk and chas,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+dinner for both,Expense,Dining,2001,APPROVED,,HUMAN_APPROVED
+roti,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+cat milk,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+fruit refund,Transfer,Groceries,2009,APPROVED,,HUMAN_APPROVED
+amm atm,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+balance transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+bank transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash deposit,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash needed,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+transfer new account hysab kytab,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+wallet cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+online deposit,Income,Income,2008,APPROVED,,HUMAN_APPROVED
+local eggs,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+kfc foodpanda,Expense,Dining,2001,APPROVED,,HUMAN_APPROVED
+pizza,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+benzine,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+buy medicine,Expense,Healthcare,2005,APPROVED,,HUMAN_APPROVED
+for taxi,Transfer,Transport,2003,APPROVED,,HUMAN_APPROVED
+uber ho home,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+gas bill,Transfer,Utilities,2004,APPROVED,,HUMAN_APPROVED
+alam for food,Expense,Dining,2001,APPROVED,,HUMAN_APPROVED
+pizza dhoodh gas,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+pizza plus khana,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+fuel cg,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+fruits,Transfer,Groceries,2009,APPROVED,,HUMAN_APPROVED
+atm transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash deposits,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+funds transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+online transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+transfer to esewa,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+lyari toll,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+parking,Transfer,Transport,2003,APPROVED,,HUMAN_APPROVED
+toll and parking,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+ptcl bill,Transfer,Utilities,2004,APPROVED,,HUMAN_APPROVED
+fuel refill,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+milk and eggs,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+for mcdonald s,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+mira fuel,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+petrol thru card,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+doodh rotian,Transfer,Groceries,2009,APPROVED,,HUMAN_APPROVED
+rotian bread,Transfer,Groceries,2009,APPROVED,,HUMAN_APPROVED
+careem earning corolla,Income,Transport,2003,APPROVED,,HUMAN_APPROVED
+rickshaw to shuttl stand,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+bajra,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+coles grocery,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+milk bottle,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+chq deposit,Income,Income,2008,APPROVED,,HUMAN_APPROVED
+breakfast,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+kfc,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+pizza tea,Transfer,Dining,2001,APPROVED,,HUMAN_APPROVED
+bick petrol,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+petrol corolla,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+doodh dahi,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+milk clear,Transfer,Groceries,2009,APPROVED,,HUMAN_APPROVED
+medicines,Transfer,Healthcare,2005,APPROVED,,HUMAN_APPROVED
+mfs salary,Income,Income,2008,APPROVED,,HUMAN_APPROVED
+adeel bhai cash deposit from abbottabad for saman,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm cash withdrawal bahl,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm transaction,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+atm transferred,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash back mariam,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash withdrawals for exp,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash withdrawn,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+jazz cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+khud cash diya,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+numair bhai payment to fahad saleem for spare parts for mezan bank and cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+tahir transfer to waris enterprises saleem bhai,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+transfer for saving,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+umair cash withdrawal,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+wechat transfer,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+withdrawal dated 7,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+brown bread,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+baby medicine,Expense,Healthcare,2005,APPROVED,,HUMAN_APPROVED
+pizza express,Expense,Dining,2001,APPROVED,,HUMAN_APPROVED
+roti in office,Expense,Dining,2001,APPROVED,,HUMAN_APPROVED
+alto fuel,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+bike s petrol,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+petrol 2 65ltr,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+imraan bread,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+milk yugart,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+medicine,Transfer,Healthcare,2005,APPROVED,,HUMAN_APPROVED
+moona medicine,Expense,Healthcare,2005,APPROVED,,HUMAN_APPROVED
+mother medicine,Expense,Healthcare,2005,APPROVED,,HUMAN_APPROVED
+patanjali medicine,Expense,Healthcare,2005,APPROVED,,HUMAN_APPROVED
+shoes,Transfer,Shopping,2006,APPROVED,,HUMAN_APPROVED
+arsalan petty cash,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash paid,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+cash received,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+received via atm,Transfer,Transfers,2007,APPROVED,,HUMAN_APPROVED
+taxi to work,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED
+uber,Income,Transport,2003,APPROVED,,HUMAN_APPROVED
+city fuel,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+civic petrol,Expense,Fuel,2002,APPROVED,,HUMAN_APPROVED
+fruit vegetables,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+milk n bread,Expense,Groceries,2009,APPROVED,,HUMAN_APPROVED
+ring road toll,Expense,Transport,2003,APPROVED,,HUMAN_APPROVED

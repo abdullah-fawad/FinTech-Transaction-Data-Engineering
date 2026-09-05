@@ -1,0 +1,90 @@
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+!.env.example
+
+airflow/.env
+airflow/.env.*
+!airflow/.env.example
+
+# =========================
+# Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Virtual environments
+# =========================
+
+.venv/
+.venv-1/
+venv/
+env/
+airflow_venv/
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# Airflow
+# =========================
+
+airflow/logs/
+airflow/plugins/__pycache__/
+airflow/dags/__pycache__/
+
+# =========================
+# Large datasets
+# =========================
+
+data/raw/*.csv
+data/*.csv
+
+# =========================
+# Large / temporary outputs
+# =========================
+
+outputs/unresolved_diagnostic.csv
+outputs/unresolved_metadata.csv
+
+# =========================
+# Local / temporary files
+# =========================
+
+*.log
+*.tmp
+*.bak
+
+# =========================
+# Archive
+# =========================
+
+archive/
+
+# =========================
+# OS files
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+
+.vscode/
+.idea/

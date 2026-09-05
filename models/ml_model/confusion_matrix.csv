@@ -1,0 +1,10 @@
+actual,Food & Groceries,Fuel,Healthcare,Income,Other,Shopping & Retail,Transfers & Withdrawals,Transport,Utilities & Bills
+Food & Groceries,381,1,0,0,14,1,0,1,2
+Fuel,1,106,0,0,0,0,0,0,0
+Healthcare,7,0,177,0,0,0,0,1,0
+Income,1,0,0,127,0,0,1,0,0
+Other,3,0,0,0,1,0,0,0,0
+Shopping & Retail,1,0,0,0,0,138,0,0,0
+Transfers & Withdrawals,1,0,0,0,0,0,149,0,0
+Transport,3,0,0,0,0,1,0,95,0
+Utilities & Bills,0,0,0,0,0,0,0,0,82

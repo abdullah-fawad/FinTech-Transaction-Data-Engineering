@@ -1,0 +1,65 @@
+normalized_description,source_category_id,canonical_category_id,canonical_name,approved
+petrol,5,2002,Fuel,True
+petrol,12,2002,Fuel,True
+petrol,14,2002,Fuel,True
+petrol,33,2002,Fuel,True
+petrol,600,2002,Fuel,True
+petrol,602,2002,Fuel,True
+fuel,14,2002,Fuel,True
+fuel,602,2002,Fuel,True
+bike fuel,14,2002,Fuel,True
+bike petrol,14,2002,Fuel,True
+car fuel,14,2002,Fuel,True
+car petrol,14,2002,Fuel,True
+mira fuel,602,2002,Fuel,True
+atm,1,2007,Transfers & Withdrawals,True
+atm,4,2007,Transfers & Withdrawals,True
+atm,7,2007,Transfers & Withdrawals,True
+atm,27,2007,Transfers & Withdrawals,True
+atm,29,2007,Transfers & Withdrawals,True
+atm,55,2007,Transfers & Withdrawals,True
+atm,500,2007,Transfers & Withdrawals,True
+atm,515,2007,Transfers & Withdrawals,True
+atm,607,2007,Transfers & Withdrawals,True
+cash,2,2007,Transfers & Withdrawals,True
+cash,12,2007,Transfers & Withdrawals,True
+cash,19,2007,Transfers & Withdrawals,True
+cash,20,2007,Transfers & Withdrawals,True
+cash,21,2007,Transfers & Withdrawals,True
+cash,23,2007,Transfers & Withdrawals,True
+cash,31,2007,Transfers & Withdrawals,True
+cash,42,2007,Transfers & Withdrawals,True
+cash,57,2007,Transfers & Withdrawals,True
+cash,64,2007,Transfers & Withdrawals,True
+cash,110,2007,Transfers & Withdrawals,True
+cash,501,2007,Transfers & Withdrawals,True
+cash,600,2007,Transfers & Withdrawals,True
+cash,625,2007,Transfers & Withdrawals,True
+cash withdrawal,8,2007,Transfers & Withdrawals,True
+cash withdrawal,514,2007,Transfers & Withdrawals,True
+cash withdrawal,625,2007,Transfers & Withdrawals,True
+cash withdrawal,629,2007,Transfers & Withdrawals,True
+online,52,2007,Transfers & Withdrawals,True
+online,501,2007,Transfers & Withdrawals,True
+online,514,2007,Transfers & Withdrawals,True
+online,626,2007,Transfers & Withdrawals,True
+online deposit,514,2008,Income,True
+cng,14,2002,Fuel,True
+cng,602,2002,Fuel,True
+cng,98,2002,Fuel,True
+cng,34,2002,Fuel,True
+cng,22,2002,Fuel,True
+cng,12,2002,Fuel,True
+cng,18,2002,Fuel,True
+cng,48,2002,Fuel,True
+cng,55,2002,Fuel,True
+cng,600,2002,Fuel,True
+transfer,4,2007,Transfers & Withdrawals,True
+transfer,7,2007,Transfers & Withdrawals,True
+transfer,27,2007,Transfers & Withdrawals,True
+transfer,501,2007,Transfers & Withdrawals,True
+withdrawal,12,2007,Transfers & Withdrawals,True
+withdrawal,30,2007,Transfers & Withdrawals,True
+withdrawal,600,2007,Transfers & Withdrawals,True
+withdrawl,625,2007,Transfers & Withdrawals,True
+withdrawl,638,2007,Transfers & Withdrawals,True
